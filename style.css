@@ -220,7 +220,7 @@ button{
 }
 .say{
     width: 100vw;
-    height: 45vw;
+    height: 55vw;
     background: url("./img/city-937541.png");
     background-size: 100%;
 }
@@ -229,7 +229,7 @@ button{
 	display: flex;
     border-radius: 10px;
 	width: 100vw;
-	height: 45vw;
+	height: 55vw;
 	top: 0;
 	left: 0;
 	right: 0;
